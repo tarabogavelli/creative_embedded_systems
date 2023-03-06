@@ -2,6 +2,9 @@
 
 # Generative Art Installation
 
+This repository contains Arduino code written in C++ for a generative art interpretation of the song “She’s a Rainbow” by The Rolling Stones for the ESP32. The code displays the lyrics of the song on the screen of the ESP32 using color, font size, random positioning, and timing to create a visual interpretation of the text.
+
+
 ## Materials
 • ESP32 TTGO T-Display <br /> 
 • USB-C Cable <br /> 
