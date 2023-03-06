@@ -21,4 +21,4 @@ This repository contains Arduino code written in C++ for a generative art interp
 • Go to Tools → Manage Library and search for tft_eSPI and install it <br /> 
 • Open a new file in the Arduino IDE and start writing code! Click the upload button to flash it onto the ESP32 or download this file and upload it to see the generative art <br /> 
 
-![alt text](http://https://imgur.com/gallery/UYwxyBY/)
+![Installation](https://imgur.com/gallery/UYwxyBY/)
