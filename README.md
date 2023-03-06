@@ -20,4 +20,4 @@
 
 ![Installation](IMG_9489.jpg)
 
-![installation](https://github.com/tarabogavelli/creative-embedded-systems/blob/1/IMG_9489.jpg?raw=true)
+![installation](https://github.com/tarabogavelli/creative-embedded-systems/blob/IMG_9489.jpg?raw=true)
